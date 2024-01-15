@@ -1,9 +1,9 @@
-This is a Simple Pong Game 
+This is a Simple Pong Game <br>
 
-Controls:
-  Left Paddle:
-    Up: Q key
-    Down: A key
-  Right Paddle:
-    Up: Up arrow key
-    Down: Down arrow key
+Controls:<br>
+  ▹Left Paddle:
+      <br>▹Up: Q key
+      <br>▹Down: A key<br>
+  ▹Right Paddle:<br>
+    Up: Up arrow key<br>
+    Down: Down arrow key<br>
